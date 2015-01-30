@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\classes-815b47c56d7a69d7c698454b25396f81e9021f23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\libs\guava_18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\guava_18.0-ad23f6806a68fb1defd2aacf1eabe346e3d9d5b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\libs\objectify_5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0268d937e0672ffe393365589fb2938c93e3fbe7">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\objectify_5.1-d6acc46c982f13fcfbfd14bfa46c75f976480b4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3 (2).jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3 (2)-4d84bb2f95981ef2acb711d0f070b38d3073535b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adeline\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-963ef7985090908a553f3f099212c4f847695f1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Adeline\AndroidStudioProjects\SupSMS\app\build\intermediates\pre-dexed\debug\classes-5dbae94d44b11cbc800e025d6e8e58caf1946737.jar" />
+    </item>
+
+</items>
